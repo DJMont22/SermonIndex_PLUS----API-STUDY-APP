@@ -1,14 +1,8 @@
-# Sermon-Index-Downloader-Tool
-This tool, will let you download multiple items from the website. and calls the translations for any bible to download. 
-
-Current working sermonindex app  , works with the v1 swagger api. 
-There is a way to change api once a updated version comes out.
-But I will update this app in order to keep it fresh and updated to the current .
 
 This is a ongoing project,
 please submit request and feed back for app updates or if you find bugs message me on here.
 or if you have a program request message me on github.
-
+My First Github/big coding project :)
 ________________________________________________________
 
 # SermonIndex +
