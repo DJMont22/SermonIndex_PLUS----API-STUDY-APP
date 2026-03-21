@@ -5,6 +5,8 @@ or if you have a program request message me on github.
 My First Github/big coding project :)
 ________________________________________________________
 <img width="1902" height="1018" alt="image" src="https://github.com/user-attachments/assets/51081a28-886a-4cdd-b0aa-d8d6054eaf73" />
+<img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/fcbfcac6-7a93-41a4-84bf-a659272446e8" />
+
 
 # SermonIndex +
 A desktop study and download companion for SermonIndex content.
